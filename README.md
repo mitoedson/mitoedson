@@ -4,5 +4,7 @@ Eu sou Edson Mito, discente da Universidade Federal do ABC do Bacharelado em Ci√
 
 Contatos:
 
-<a href="https://www.linkedin.com/in/edsonmito/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/edmito/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://edsonmito.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+
 
