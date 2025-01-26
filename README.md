@@ -1,6 +1,6 @@
 ### Olá,
 
-Eu sou Edson Mito, discente pela Universidade Federal do ABC em Engenharia da Informação. Após conclusão, decidindo se complemento com Engenharia de Instrumentação, Automação e Controle, ou Cieêcias de Dados, ou parto para a pos-graduação.
+Eu sou Edson Mito, Bacharel em Ciência e Tecnologia pela Universidade Federal do ABC (UFABC), e bacharelando em Engenharia da Informação. Minhas áreas de interesse são fotônica, controle e automação, e análise e ciência de dados. 
 <b>Contatos:</b><br>
 <a href="https://www.linkedin.com/in/edmito/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="http://edsonmito.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
