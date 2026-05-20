@@ -1,6 +1,6 @@
 ### Olá,
 
-Eu sou Edson Mito, Bacharel em Ciência e Tecnologia pela Universidade Federal do ABC (UFABC), e bacharelando em Engenharia da Informação. Minhas áreas de interesse são fotônica, controle e automação, análise e ciência de dados e empreendedorismo. 
+Eu sou Edson Mito, Bacharel em Ciência e Tecnologia pela Universidade Federal do ABC (UFABC), e bacharelando em Engenharia da Informação, e Engenharia de Automação, Instrumentação e Controle. Minhas áreas de interesse são controle e automação, IA e Visão Computacional, e ciência de dados.
 <p>
 <b>Contatos:</b><br>
 <a href="https://www.linkedin.com/in/edmito/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
